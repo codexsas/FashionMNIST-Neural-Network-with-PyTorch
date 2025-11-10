@@ -88,5 +88,5 @@ This project builds a multi-layer perceptron (MLP) to classify images from the F
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/fashionmnist-pytorch.git
+git clone https://github.com/<codexsas>/fashionmnist-pytorch.git
 cd fashionmnist-pytorch
